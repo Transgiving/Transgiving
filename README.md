@@ -1,5 +1,5 @@
 # Transgiving
-A list of trans creators whose work you can support over the US Thanksgiving weekend and beyond!
+A list of trans creators whose work you can support over the US Thanksgiving weekend and beyond! We're especially hoping to highlight trans POC, but anyone can participate - the more the merrier!
 
 ## How it works
 You can add yourself to the list in one of two ways.
