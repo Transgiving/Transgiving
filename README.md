@@ -21,3 +21,5 @@ Or, contact transgiving2017@gmail.com with the following information:
 | Svetlana | http://mynameiser.in | Music composer | http://bandcamp.mynameiser.in/ |
 | Sophia Park |  | I make video games | http://sophiapark.itch.io/ |
 | Caelyn Sandel | http://inurashii.xyz | Experimental author and designer | http://patreon.com/inurashii |
+| Rhys Passafiume | [@scoots@mastodon.art](https://mastodon.art/@scoots) | Illustrator | https://www.redbubble.com/people/hoboriss, https://www.patreon.com/xenocat |
+| Catherine B. Krause | http://catherinebkrause.com/ | I am a poet and occasional prose writer. All of my work is eventually made public-domain after it is published, usually immediately unless the publisher temporarily retains rights. | [Liberapay](https://en.liberapay.com/catherinebkrause/)<br>[PayPal](https://www.paypal.me/catherinebkrause)<br>[Smashwords](https://www.smashwords.com/profile/view/catherinebkrause) (by setting your own price for one of my otherwise free books) |
