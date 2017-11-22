@@ -19,3 +19,4 @@ Or, contact transgiving2017@gmail.com with the following information:
 | ---- | ------- | --------------- | ------------------------- |
 | Noëlle | https://elekk.xyz | Run the site | https://www.patreon.com/noelleanthony |
 | Svetlana | http://mynameiser.in | Music composer | http://bandcamp.mynameiser.in/ |
+| Sophia Park |  | I make video games | http://sophiapark.itch.io/ |
