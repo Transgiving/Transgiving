@@ -18,3 +18,4 @@ Or, contact transgiving2017@gmail.com with the following information:
 | Name | Website | What do you do? | Where can we support you? |
 | ---- | ------- | --------------- | ------------------------- |
 | Noëlle | https://elekk.xyz | Run the site | https://www.patreon.com/noelleanthony |
+| Svetlana | http://mynameiser.in | Music composer | http://bandcamp.mynameiser.in/ |
