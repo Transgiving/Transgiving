@@ -11,7 +11,7 @@ Or, contact transgiving2017@gmail.com with the following information:
 * Your name
 * Your website (if applicable; this can just be Twitter or Mastodon if you want)
 * What you do and/or sell
-* Where people can support you (Patreon, Redbubble, Paypal.me, etc. are fine.)
+* Where people can support you (Patreon, Redbubble, Paypal.me, etc. are fine. Include as many as you want.)
 
 ## The Transgiving List
 
