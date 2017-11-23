@@ -26,3 +26,4 @@ Or, contact transgiving2017@gmail.com with the following information:
 | Kristina "th' buni" Tracer | [The Literorrery](http://orrery.prismaticmedia.com) | Author, community organizer, mage | [Patreon](http://patreon.com/literorrery)<br/>[The Orrery Gift Shop](http://orrery.prismaticmedia.com/giftshop/) |
 | Angela Quinton | http://twitter.com/aquinton/ | Author, designer, developer, editor & producer of diverse + spooky "Werewolves Versus" anthologies | https://gumroad.com/argylewerewolf, https://www.patreon.com/argylewerewolf
 | fluffy | https://beesbuzz.biz | Games, comics, and music! | [Patreon](http://patreon.com/fluffy), [general aggregated storefront](https://biz.beesbuzz.biz) |
+| Erin 'Saishy' Calmon | http://tinybirdgames.com/ | Create indie games with a queer-only team | https://www.patreon.com/TinyBirdGames |
