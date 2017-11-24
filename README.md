@@ -1,4 +1,4 @@
-# Transgiving
+﻿# Transgiving
 A list of trans creators whose work you can support over the US Thanksgiving weekend and beyond! We're especially hoping to highlight trans POC, but anyone can participate - the more the merrier!
 
 ## How it works
@@ -30,3 +30,4 @@ Or, contact transgiving2017@gmail.com with the following information:
 | Nero O'Reilly | http://itsnero.com<br>[@itsnero@mastodon.social](https://mastodon.social/@itsnero)<br>https://twitter.com/itsnero | Comics, illustration, and design | https://patreon.com/carnivoreplanet<br>https://patreon.com/betonbrut<br>https://shop.itsnero.com |
 | Adrien Lee | http://www.white-noise-comic.com<br>https://twitter.com/thephooka | Artist/author of White Noise, a weekly webcomic about queer monsters | https://patreon.com/thephooka<br>Also, by reading my comic online with adblock off, and by spreading the word to people you think might like my work! |
 | Bandit | http://www.bandittheraccoon.bandcamp.com | Musician | Help to sell a few copies of my work to relaunch my music career on my own. I'd be making my next release with them all credited for their support. |
+| Laura Tams | [killjoy.dk](https://killjoy.dk/en) | Articles, interviews and resources for and with politicians and trans advocates. Mostly Danish articles that sometimes get English-translation | If you have money: https://www.patreon.com/killjoydk - but referral links help tons, too |
